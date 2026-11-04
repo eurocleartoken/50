@@ -1,0 +1,18 @@
+# One•Two•Three Ecosystem
+
+> Solana Token-2022 ecosystem with routing hubs ONE and TAXI. Real-time liquidity on Meteora DAMM V2. Integrated with the Fifty Euro Token (€50).
+
+## Hubs
+- [$ONE - Primary routing hub](https://eurocleartoken.github.io/50/ecosystem.html#one): CGn6yYGTUkctq9PqDdK6ALgfxTS1vTBr9NWBPuoNYmad
+- [€50 - European hub](https://eurocleartoken.github.io/50/): 3QV2nmst2e9bdr4VLEKgdmwXBsPVCWykYDMBvh9zNAQP
+
+## Docs
+- [Full Ecosystem Map](https://eurocleartoken.github.io/50/ecosystem.html)
+- [Full llms.txt](https://eurocleartoken.github.io/50/llms-full.txt)
+
+## Pools
+- Meteora DAMM V2: ONE-USDT `D6tgbM8TwtneypFPbTLFNYJS8Uu3WAFz4L9QRYj5HPiN` - fetch via Meteora API
+- Meteora DAMM V2: $777-USDC `VitKKijuJGM2REPHUPeCETCLavdtFGj6VZ3vDgjiRPz` - fetch via Meteora API
+- Meteora DAMM V2: ¥365-USDC `4LkZSprk6dfw58C34oTUSwXCSQGs8bsMYGqAgQVVVcgo` - fetch via Meteora API
+- Meteora DAMM V2: €50-USDC `6ts3hhPJmPoSRFKKVGC9SUqe1zqDEfSMsRfoFRupycRz` - fetch via Meteora API
+- Uniswap (Wormhole): €50 `3QV2nmst2e9bdr4VLEKgdmwXBsPVCWykYDMBvh9zNAQP` - fetch via Uniswap API
